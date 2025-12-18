@@ -17,7 +17,7 @@ func HotelMenu() {
 		var choice int
 		fmt.Scan(&choice)
 
-		if choice >= 5 || choice < 1 {
+		if choice == 5 {
 			break
 		}
 
