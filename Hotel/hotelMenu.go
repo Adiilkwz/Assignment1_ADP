@@ -6,7 +6,7 @@ func HotelMenu() {
 	h := Hotel{Rooms: make(map[string]Room)}
 
 	for {
-		fmt.Println("\n--- Hotel Management System ---")
+		fmt.Println("\n--- Hotel Room Reservation System ---")
 		fmt.Println("1. Add Room")
 		fmt.Println("2. Check In")
 		fmt.Println("3. Check Out")

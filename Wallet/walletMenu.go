@@ -6,7 +6,7 @@ func WalletMenu() {
 	myWallet := Wallet{Balance: 0, History: []Transaction{}}
 
 	for {
-		fmt.Println("\n--- Task 4: Digital Wallet ---")
+		fmt.Println("\n--- Digital Wallet ---")
 		fmt.Println("1. Deposit Money")
 		fmt.Println("2. Spend Money")
 		fmt.Println("3. Check Balance")

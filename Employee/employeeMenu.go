@@ -6,7 +6,7 @@ func EmployeeMenu() {
 	var employees []Employee
 
 	for {
-		fmt.Println("\n--- Employee Management ---")
+		fmt.Println("\n--- Employee Management System ---")
 		fmt.Println("1. Add Full-Time")
 		fmt.Println("2. Add Part-Time")
 		fmt.Println("3. Add Contractor")

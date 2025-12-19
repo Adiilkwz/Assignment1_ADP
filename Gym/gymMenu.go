@@ -6,7 +6,7 @@ func GymMenu() {
 	myGym := Gym{Members: make(map[uint64]Member)}
 
 	for {
-		fmt.Println("\n--- Gym Membership System ---")
+		fmt.Println("\n--- Membership Management System ---")
 		fmt.Println("1. Add Basic Member")
 		fmt.Println("2. Add Premium Member")
 		fmt.Println("3. List All Members")
