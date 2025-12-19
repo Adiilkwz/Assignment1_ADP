@@ -2,7 +2,7 @@
 
 This repository contains a collection of four Go packages, each demonstrating core concepts of the Go programming language, including **Structs**, **Interfaces**, **Maps**, **Slices**, and **Method Receivers**.
 
-## 🚀 Project Structure
+## Project Structure
 
 The project is organized into modular packages to ensure clean code and separation of concerns:
 
@@ -59,3 +59,5 @@ Method Receivers
 Value Receivers: Used for methods that only read data (e.g., GetBalance, GetDetails).
 
 Pointer Receivers: Used for methods that modify the state of the object (e.g., AddMoney, CheckIn).
+
+Author: Adil Ramazan SE-2415
